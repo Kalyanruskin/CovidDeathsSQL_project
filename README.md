@@ -23,7 +23,7 @@ The `CovidDeathsSQL_project` repository houses SQL scripts aimed at analyzing CO
 ## Usage
 To utilize the SQL files:
 1. Clone or download this repository.
-2. Access the `analysis_queries.sql` file.
+2. Access the `CovidDeathsPortfolioproj.sql` file.
 3. Execute the SQL queries in a compatible SQL environment or database management system.
 
 ## Data Sources
